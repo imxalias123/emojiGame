@@ -1,0 +1,17 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: #9796f0;
+  cursor: pointer;
+  outline: none;
+  border-radius: 20px;
+  border: 3px solid #ffffff33;
+  padding: 50px;
+  margin: 5px;
+}
+.emoji {
+  width: 120px;
+}
